@@ -1,6 +1,6 @@
-## CONTENTED.cd
-### Курс "VR-разработка в Unity. Уровень 1"
-### Задание "Виртуальная квартира в 360"
+# CONTENTED | Курс "VR-разработка в Unity. Уровень 1"
+
+## Задание "Виртуальная квартира в 360"
 
 ### Unity Version:
 
@@ -18,4 +18,10 @@ XR Settings/Virtual Reality Supported: On
 
 XR Settings/Virtual Reality SDKs: Cardboard
 
-### Event Trigger - Pointer Click
+### Event Trigger
+
+Pointer Click
+
+### Оценка за задание:
+
+5 из 5
